@@ -16,6 +16,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+ // heedong changes
 #ifndef MBED_BUFFER_H
 #define MBED_BUFFER_H
 
